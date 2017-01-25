@@ -13,6 +13,12 @@ In questo panorama, il Laboratorio si propone di:
 * mostrare alcuni esempi pratici, descrivendo il ruolo delle metodologie fisiche e statistiche (“Big Data Analytics”, “Teoria dei Network”, “Processi Stocastici”) nel caratterizzare le proprietà di questi sistemi;
 * fornire una chiave interpretativa alle analisi, inserendo i risultati in un contesto a network, e proponendo analogie con altre “strutture complesse” presenti nella vita di tutti i giorni, come il web e le reti sociali.
 
+## Riferimento per la programmazione in python
+
+**Pensare da informatico, Versione Python**; di Allen B. Downey, Jeffrey Elkner e Chris Meyers, Traduzione di Alessandro Pocaterra 
+
+http://www.python.it/doc/Howtothink/Howtothink-html-it/index.htm
+
 ## Referenze
 * **Nexus. Perché la natura, la società, l'economia, la comunicazione funzionano allo stesso modo**; di Mark Buchanan
 * **Link. La scienza delle reti**; di Albert-László Barabási
