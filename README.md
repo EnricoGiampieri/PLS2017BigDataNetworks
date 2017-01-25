@@ -15,7 +15,7 @@ In questo panorama, il Laboratorio si propone di:
 
 ## Laboratorio parte 1 - Introduzione a Python
 
-[Introduzione a Python](https://github.com/EnricoGiampieri/PLS2017BigDataNetworks/blob/master/Lezione%201a%20-%20Introduzione%20a%20Python.ipynb)
+[1a - Introduzione a Python](https://github.com/EnricoGiampieri/PLS2017BigDataNetworks/blob/master/Lezione%201a%20-%20Introduzione%20a%20Python.ipynb)
 
 ## Riferimento per la programmazione in python
 
