@@ -13,6 +13,10 @@ In questo panorama, il Laboratorio si propone di:
 * mostrare alcuni esempi pratici, descrivendo il ruolo delle metodologie fisiche e statistiche (“Big Data Analytics”, “Teoria dei Network”, “Processi Stocastici”) nel caratterizzare le proprietà di questi sistemi;
 * fornire una chiave interpretativa alle analisi, inserendo i risultati in un contesto a network, e proponendo analogie con altre “strutture complesse” presenti nella vita di tutti i giorni, come il web e le reti sociali.
 
+## Laboratorio parte 1 - Introduzione a Python
+
+[Introduzione a Python](https://github.com/EnricoGiampieri/PLS2017BigDataNetworks/blob/master/Lezione%201a%20-%20Introduzione%20a%20Python.ipynb)
+
 ## Riferimento per la programmazione in python
 
 **Pensare da informatico, Versione Python**; di Allen B. Downey, Jeffrey Elkner e Chris Meyers, Traduzione di Alessandro Pocaterra 
