@@ -1,4 +1,4 @@
-# PLS2017BigDataNetworks
+# Big data e network tra fisica e biologia
 Materiale per il corso di "Big data e network tra fisica e biologia" del Piano lauree scientifiche 2016-2017, tenuto presso il dipartimento di Fisica dell'Università di Bologna
 
 ## Responsabili del corso
