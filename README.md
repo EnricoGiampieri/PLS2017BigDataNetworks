@@ -20,3 +20,7 @@ In questo panorama, il Laboratorio si propone di:
 * **Sincronia. I ritmi della natura, i nostri ritmi**; di Steven Strogatz
 * **Caos. La nascita di una nuova scienza**; di James Gleick
 * **La passeggiata dell'ubriaco. Le leggi scientifiche del caso**; di Leonard Mlodinow e I. Katerinov
+
+### Riferimento del Corso
+
+http://www.pls.unibo.it/it/fisica/attivita/a.a.-2016-2017/laboratori/laboratorio-5-big-data-tra-fisica-e-biologia
