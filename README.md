@@ -13,11 +13,16 @@ In questo panorama, il Laboratorio si propone di:
 * mostrare alcuni esempi pratici, descrivendo il ruolo delle metodologie fisiche e statistiche (“Big Data Analytics”, “Teoria dei Network”, “Processi Stocastici”) nel caratterizzare le proprietà di questi sistemi;
 * fornire una chiave interpretativa alle analisi, inserendo i risultati in un contesto a network, e proponendo analogie con altre “strutture complesse” presenti nella vita di tutti i giorni, come il web e le reti sociali.
 
-## Laboratorio parte 1 - Introduzione a Python
+## Materiale per la sezione di laboratorio
+### Laboratorio parte 1 - Introduzione a Python
 
 [installare Python versione 3.5](https://www.continuum.io/downloads)
 
 [lezione 1a - Introduzione a Python](https://github.com/EnricoGiampieri/PLS2017BigDataNetworks/blob/master/Lezione%201a%20-%20Introduzione%20a%20Python.ipynb)
+
+### Laboratorio parte 2 - Modelli Markoviani e modelli nulli
+
+### Laboratorio parte 3 - Applicazione dei Network alle reti genomiche e metaboliche
 
 ## Riferimento per la programmazione in python
 
